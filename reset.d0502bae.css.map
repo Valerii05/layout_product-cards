@@ -1,0 +1,1 @@
+{"version":3,"sources":["reset.css"],"names":[],"mappings":"AAYA,sBACE,QACF","file":"reset.d0502bae.css","sourceRoot":"..\\src","sourcesContent":["body {\r\n  margin: 0;\r\n}\r\n\r\nh1,\r\nh2,\r\nh3,\r\nh4,\r\nh5 {\r\n  margin: 0;\r\n}\r\n\r\np {\r\n  margin: 0;\r\n}\r\n"]}
